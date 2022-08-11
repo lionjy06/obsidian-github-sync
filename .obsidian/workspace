@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "771d15ad0408dfd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d35c994a4db9726",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb579630c1d93902",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bc12d9a6401601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9a89d4ee61ad312",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "92f8b9354b2e6dac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f278119b6dfaf12",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ce67b6b9959879ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "d783c14a68ff27a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "356213cc867adb04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d33a256cc62e95ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2fd6bb3c56279b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56e308002bfc74dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d35c994a4db9726",
+  "lastOpenFiles": [
+    "SQL/SQL SELECT.md",
+    "SQL/SQL 연산.md",
+    "SQL/SQL num & string type func.md",
+    "SQL/SQL date&time + conditional statement.md",
+    "SQL/SQL GROUP + HAVING.md",
+    "SQL/SQL subsuqery.md"
+  ]
+}
