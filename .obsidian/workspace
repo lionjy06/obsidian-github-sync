@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/SQL JOIN.md",
+            "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL JOIN.md",
+                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL JOIN.md",
+                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL JOIN.md"
+                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md"
               }
             }
           }
@@ -130,8 +130,9 @@
   },
   "active": "3d35c994a4db9726",
   "lastOpenFiles": [
-    "SQL/SQL subsuqery.md",
+    "Untitled.md",
     "SQL/SQL JOIN.md",
+    "SQL/SQL subsuqery.md",
     "ReadMe.md",
     "2022-08-11.md",
     "SQL/SQL SELECT.md",
