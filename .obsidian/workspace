@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3d35c994a4db9726",
+        "id": "f587fba5ceee9892",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+            "file": "daily회고/nodemailer.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+                "file": "daily회고/nodemailer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+                "file": "daily회고/nodemailer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md"
+                "file": "daily회고/nodemailer.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d35c994a4db9726",
+  "active": "f587fba5ceee9892",
   "lastOpenFiles": [
-    "Untitled.md",
-    "SQL/SQL JOIN.md",
-    "SQL/SQL subsuqery.md",
-    "ReadMe.md",
-    "2022-08-11.md",
-    "SQL/SQL SELECT.md",
-    "SQL/SQL 연산.md",
-    "SQL/SQL num & string type func.md",
-    "SQL/SQL date&time + conditional statement.md",
-    "SQL/SQL GROUP + HAVING.md"
+    "daily회고/AWS S3 + Route 53 정적사이트 배포.md",
+    "paste/Pasted image 20220813231130.png",
+    "paste/스크린샷 2022-08-13 오후 11.15.03.png",
+    "스크린샷 2022-08-13 오후 11.15.03 복사본.png",
+    "Pasted image 20220813230159.png.md",
+    "Pasted image 20220813230159.png",
+    "paste/Pasted image 20220813225820.png",
+    "paste/Pasted image 20220813230521.png",
+    "paste/Pasted image 20220813230555.png",
+    "SQL/SQL date&time + conditional statement.md"
   ]
 }
