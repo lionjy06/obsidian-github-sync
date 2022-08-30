@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+            "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+                "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+                "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL LEFT&RIGHT OUTER JOIN.md"
+                "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d35c994a4db9726",
+  "active": "b9a89d4ee61ad312",
   "lastOpenFiles": [
-    "Untitled.md",
     "SQL/SQL JOIN.md",
+    "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
+    "SQL/SQL num & string type func.md",
+    "backend-study/nest를 사용하는 이유가 무엇일까??.md",
     "SQL/SQL subsuqery.md",
     "ReadMe.md",
     "2022-08-11.md",
     "SQL/SQL SELECT.md",
     "SQL/SQL 연산.md",
-    "SQL/SQL num & string type func.md",
-    "SQL/SQL date&time + conditional statement.md",
-    "SQL/SQL GROUP + HAVING.md"
+    "SQL/SQL date&time + conditional statement.md"
   ]
 }
