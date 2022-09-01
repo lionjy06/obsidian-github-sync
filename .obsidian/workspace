@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3d35c994a4db9726",
+        "id": "071cb5987659de16",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md",
+            "file": "docker/docker1/docker 흐름.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md",
+                "file": "docker/docker1/docker 흐름.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md",
+                "file": "docker/docker1/docker 흐름.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend-study/nest를 사용하는 이유가 무엇일까??.md"
+                "file": "docker/docker1/docker 흐름.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d35c994a4db9726",
+  "active": "b9a89d4ee61ad312",
   "lastOpenFiles": [
+    "docker/docker1/docker란?.md",
+    "paste/Pasted image 20220901152246.png",
+    "paste/Pasted image 20220901144014.png",
+    "backend-study/진영study/nest를 사용하는 이유가 무엇일까??.md",
     "conflict-files-obsidian-git.md",
-    "backend-study/nest를 사용하는 이유가 무엇일까??.md",
     "SQL/SQL JOIN.md",
     "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
     "SQL/SQL num & string type func.md",
     "SQL/SQL subsuqery.md",
-    "ReadMe.md",
-    "2022-08-11.md",
-    "SQL/SQL SELECT.md",
-    "SQL/SQL 연산.md"
+    "ReadMe.md"
   ]
 }
