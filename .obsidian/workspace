@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9a89d4ee61ad312",
+  "active": "3d35c994a4db9726",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "backend-study/nest를 사용하는 이유가 무엇일까??.md",
     "SQL/SQL JOIN.md",
     "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
     "SQL/SQL num & string type func.md",
-    "backend-study/nest를 사용하는 이유가 무엇일까??.md",
     "SQL/SQL subsuqery.md",
     "ReadMe.md",
     "2022-08-11.md",
     "SQL/SQL SELECT.md",
-    "SQL/SQL 연산.md",
-    "SQL/SQL date&time + conditional statement.md"
+    "SQL/SQL 연산.md"
   ]
 }
