@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docker/docker1/docker 흐름.md",
+            "file": "docker/docker2/기본적인 docker client command.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/docker1/docker 흐름.md",
+                "file": "docker/docker2/기본적인 docker client command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/docker1/docker 흐름.md",
+                "file": "docker/docker2/기본적인 docker client command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/docker1/docker 흐름.md"
+                "file": "docker/docker2/기본적인 docker client command.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "b9a89d4ee61ad312",
   "lastOpenFiles": [
+    "docker/docker1/docker 흐름.md",
+    "backend-study/진영study/nest를 사용하는 이유가 무엇일까??.md",
     "docker/docker1/docker란?.md",
     "paste/Pasted image 20220901152246.png",
     "paste/Pasted image 20220901144014.png",
-    "backend-study/진영study/nest를 사용하는 이유가 무엇일까??.md",
     "conflict-files-obsidian-git.md",
     "SQL/SQL JOIN.md",
     "SQL/SQL LEFT&RIGHT OUTER JOIN.md",
     "SQL/SQL num & string type func.md",
-    "SQL/SQL subsuqery.md",
-    "ReadMe.md"
+    "SQL/SQL subsuqery.md"
   ]
 }
